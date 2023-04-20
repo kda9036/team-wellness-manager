@@ -1,0 +1,16 @@
+b,Berry Pie Slice,360.00,17.50,49.20,4.00
+b,Yogurt (4oz),100.00,1.50,19.00,4.00
+b,Hot Dog,190.00,16.00,4.00,7.00
+b,Hot Dog Bun,110.00,1.50,21.00,3.00
+r,HotDog+Bun,Hot Dog,1.0,Hot Dog Bun,1.0
+b,Bread (slice),80.00,1.00,15.00,2.00
+b,Peanut Butter (tbsp),95.00,8.00,3.50,4.00
+r,PB Sandwich,Peanut Butter (tbsp),2.0,Bread (slice),2.0
+b,Jelly (tbsp),56.00,6.30,14.70,0.00
+r,PB+J Sandwich,Jelly (tbsp),1.0,PB Sandwich,1.0
+r,Questionable Meal,Berry Pie Slice,1.5,HotDog+Bun,2.0
+r,New recipe,,,,
+b,Apples,33.00,23.00,4.00,4.00
+b,Grapes,3.00,3.00,3.00,3.00
+r,Testing,Apples,90.0,Grapes,90.0
+b,Donut,100.00,200.00,10.00,0.00
