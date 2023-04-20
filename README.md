@@ -12,8 +12,6 @@ An online application to be developed in Java 8=>**11** for the purpose of... >*
 
 - Yun Yiu Cheng, Configuration Coordinator
 
-- Richard Zheng,
-
 ## Team Additional Information
 
 - Meeting times - Tuesday: 12:15 pm - 1:45 pm, Thursday: 12:15 am - 1:45 pm
